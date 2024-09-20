@@ -1,20 +1,16 @@
-# Hi there, I'm Hardik Patel 👋
+# 💫 About Me:
+I am currently pursuing a Business Finance Diploma at Fanshawe College, building on my academic foundation in Business and Pharmacy. My passion for data analytics sparked during my education, where I developed a strong interest in uncovering insights from complex data sets. Along with my technical studies, I’ve earned several Microsoft certifications, including Power BI Data Analyst, Power Platform, and Azure Data Fundamentals, which deepened my understanding of data visualization, automation, and cloud technologies.<br><br>Over the past four years, I’ve held a Senior Data Analyst role at Bartle & Gibson, where I led a team in developing predictive models and automated workflows using SQL, Power BI, and Excel. My work has spanned pricing strategies, sales forecasting, and collaboration with cross-functional teams to align data-driven insights with business objectives. Additionally, I’ve mentored junior analysts and successfully managed projects to improve reporting processes, saving time and boosting efficiency.<br><br>As I continue my career, I aim to deepen my expertise in machine learning and advanced data science techniques. My goal is to transition into a Data Scientist role, leveraging predictive analytics and AI to solve complex business challenges. I'm passionate about continuous learning and excited about the future possibilities in the evolving world of data.
 
-Welcome to my GitHub profile!
 
-## About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardikpatelbianalyst) 
 
-- 🌟 **Current Role**: Senior Data Analyst at Bartle & Gibson
-- 🌌 **Interests**: Data Analysis, Space Science, Data Visualization
-- 🛠️ **Skills**: SQL, Power BI, Excel, Python, DAX
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HardikPatel-DX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HardikPatel-DX&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikPatel-DX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Connect with Me
-
-- [LinkedIn](www.linkedin.com/in/hardikpatelbianalyst)
-- [Email](mailto:hardikpatel8925@yahoo.com)
-
-## Fun Fact
-
-I can talk about data analysis and space science for hours!
-
-Thanks for stopping by!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HardikPatel-DX&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
